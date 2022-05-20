@@ -1,0 +1,24 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #CDCDc0;
+}
+
+#About {
+    background-color: #273036;
+    color: aliceblue;
+
+}
+
+#Project {
+    background-color: #CDCDc0;
+
+}
+
+#Contact {
+    background-color: #273036;
+    color: aliceblue;
+}
+
+section {
+    padding-top: 6rem;
+}
